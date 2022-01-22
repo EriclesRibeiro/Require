@@ -1,0 +1,46 @@
+.nav-menu {
+    width: 20%;
+    height: 100vh;
+    background-color: var(--medium-bg);
+}
+.logo-header {
+    width: 100%;
+    height: 120px;
+}
+.logo-header img {
+    display: block;
+    margin: auto !important;
+    position: relative;
+    top: 20px;
+}
+.r-menu {
+}
+.r-menu ul {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.r-menu ul li {
+    width: 100%;
+    height: 70px;
+    display: block;
+    position: relative;
+    text-align: center;
+    margin: 0;
+}
+.r-menu ul li a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.r-menu ul li a:hover{
+    background-color: var(--strong-bg);
+}
+.r-header {
+    width: 80%;
+    height: 70px;
+    background-color: var(--strong-bg);
+    float: right;
+}

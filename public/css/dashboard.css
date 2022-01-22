@@ -1,0 +1,82 @@
+/* .left-section {
+    background: transparent;
+    height: 600px;
+    padding: 40px 10px !important;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.left-section .title, .right-section .title {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title h3{
+    font-weight: lighter;
+}
+.right-section {
+    background: transparent;
+    height: 600px;
+    padding: 40px 10px !important;
+    float: right;
+}
+@media screen and (max-width: 1600px) {
+    .right-section {
+        height: 400px;
+    }
+    .left-section {
+        height: 400px;
+    }
+}
+.enter-room {
+    width: 60%;
+    height: 100%;
+    border-radius: 8px;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.box {
+    display: flex;
+    justify-content: center;
+}
+.enter-room .title {
+    position: absolute;
+    top: 0;
+}
+.row {
+    position: relative;
+}
+.r-divisor {
+    height: 100% !important;
+    width: 0px !important;
+    border-left: 1px solid var(--text);
+    position: absolute;
+    top: 55px;
+    left: 50%;
+}
+.right-section button, .form-content button {
+    width: 100%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background: linear-gradient(90deg, #F0E266 0%, #C660DF 99.53%);
+}
+.right-section button > span, .form-content button > span {
+    color: var(--light);
+}
+.room-item {
+    max-width: 550px;
+    width: 100%;
+    height: 40px;
+    border: 1px solid var(--text);
+    border-radius: 5px;
+    margin-top: 5px !important;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 25px !important;
+    cursor: pointer;
+} */
